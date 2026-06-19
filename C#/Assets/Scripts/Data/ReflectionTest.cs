@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System;
 using System.Reflection;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ public interface IItemEffect { void Execute(); }
 public class JumpEffect : IItemEffect { public void Execute() => Debug.Log("점프 완료!"); }
 public class AttackEffect : IItemEffect { public void Execute() => Debug.Log("공격 완료!"); }
 
-public class ReflectionTest : MonoBehaviour
+public class Reflectionfirst : MonoBehaviour
 {
     // 성능을 위한 델리게이트 캐싱 딕셔너리
     private static Dictionary<string, Action> _cachedEffects = new Dictionary<string, Action>();

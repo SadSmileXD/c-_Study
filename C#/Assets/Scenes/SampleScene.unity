@@ -432,7 +432,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &852133498
+--- !u!1 &916632925
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -440,57 +440,136 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 852133500}
-  - component: {fileID: 852133499}
-  - component: {fileID: 852133501}
+  - component: {fileID: 916632927}
+  - component: {fileID: 916632926}
   m_Layer: 0
-  m_Name: ReflectionReflection_Test
+  m_Name: SOReflection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &852133499
+  m_IsActive: 0
+--- !u!114 &916632926
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 852133498}
+  m_GameObject: {fileID: 916632925}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90f085ef26dc1274d95a447927878aa7, type: 3}
+  m_Script: {fileID: 11500000, guid: 2ffc5806f2005e040b43ba022c09a496, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ReflectionReflection_Test
-  LV: 1
-  m_name: sd
---- !u!4 &852133500
+  m_EditorClassIdentifier: Assembly-CSharp::SOReflection
+  skillLists: []
+--- !u!4 &916632927
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 852133498}
+  m_GameObject: {fileID: 916632925}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.18984, y: -0, z: 2.27231}
+  m_LocalPosition: {x: 4.37968, y: -0, z: 4.54463}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &852133501
+--- !u!1 &1308778473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1308778475}
+  - component: {fileID: 1308778474}
+  m_Layer: 0
+  m_Name: ReflectionTest001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &1308778474
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 852133498}
+  m_GameObject: {fileID: 1308778473}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f51c2cc6c8d8274a8ae54dd07567c21, type: 3}
+  m_Script: {fileID: 11500000, guid: 9284c54a1ede11e42a5f515a3493b113, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ReflectionTest
+  m_EditorClassIdentifier: Assembly-CSharp::ReflectionTest001
+  Monsters: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!4 &1308778475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1308778473}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.37968, y: -0, z: 4.54463}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2087241814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2087241816}
+  - component: {fileID: 2087241815}
+  m_Layer: 0
+  m_Name: SOReflection2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2087241815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2087241814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12eb788663e22cc488a4f7f8a64ffa8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SOReflection2
+  m_List: []
+--- !u!4 &2087241816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2087241814}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.37968, y: -0, z: 4.54463}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -498,4 +577,6 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 832575519}
-  - {fileID: 852133500}
+  - {fileID: 1308778475}
+  - {fileID: 916632927}
+  - {fileID: 2087241816}

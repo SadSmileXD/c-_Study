@@ -35,3 +35,124 @@
        Debug.Log($"필드 이름: {field.Name}, 값: {field.GetValue(player)}");
    }
 ```
+
+```Csharp
+
+```
+### 메소드
+```Csharp
+1.GetType()
+객체의 타입 정보를 가져옵니다.
+
+Player player = new Player();
+
+Type type = player.GetType();
+
+Debug.Log(type.Name); // Player
+```
+
+```Csharp
+2.typeof()
+컴파일 시점에 타입 정보를 가져옵니다.
+
+Type type = typeof(Player);
+
+Debug.Log(type.Name);
+```
+
+```Csharp
+3. GetFields()
+필드(Field) 목록을 가져옵니다.
+
+FieldInfo[] fields = typeof(Player).GetFields();
+
+foreach (FieldInfo field in fields)
+{
+    Debug.Log(field.Name);
+}
+```
+
+```Csharp
+4. GetField()
+특정 필드 하나를 가져옵니다.
+
+FieldInfo field = typeof(Player).GetField("hp");
+```
+```Csharp
+5. GetProperties()
+프로퍼티(Property)를 가져옵니다.
+
+PropertyInfo[] properties =
+    typeof(Player).GetProperties();
+
+foreach (PropertyInfo property in properties)
+{
+    Debug.Log(property.Name);
+}
+```
+
+```Csharp
+6. GetProperty()
+특정 프로퍼티를 가져옵니다.
+
+PropertyInfo property =
+    typeof(Player).GetProperty("Hp");
+```
+
+```Csharp
+7. GetMethods()
+메서드 목록을 가져옵니다.
+
+MethodInfo[] methods =
+    typeof(Player).GetMethods();
+
+foreach (MethodInfo method in methods)
+{
+    Debug.Log(method.Name);
+}
+```
+
+```Csharp
+8. GetMethod()
+특정 메서드를 가져옵니다.
+
+MethodInfo method =
+    typeof(Player).GetMethod("Attack");
+```
+
+
+```Csharp
+9. GetMembers()
+필드, 프로퍼티, 메서드를 모두 가져옵니다.
+
+MemberInfo[] members =
+    typeof(Player).GetMembers();
+
+foreach (MemberInfo member in members)
+{
+    Debug.Log(member.Name);
+}
+```
+```Csharp
+10. BindingFlags
+private, static 등을 포함해서 가져올 때 사용합니다.
+
+FieldInfo[] fields =
+    typeof(Player).GetFields(
+        BindingFlags.Public |
+        BindingFlags.NonPublic |
+        BindingFlags.Instance);
+```
+```Csharp
+11. Activator.CreateInstance()
+문자열이나 Type으로 객체 생성
+
+Type type = typeof(Player);
+
+object obj = Activator.CreateInstance(type);
+
+캐스팅
+
+Player player =
+    (Player)Activator.CreateInstance(type);
+```
