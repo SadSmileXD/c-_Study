@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Unity\\c-_Study\\C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample2\\soreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample2\\soreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample3\\soreflection2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample3\\soreflection2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample\\reflectiontest001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample\\reflectiontest001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample2\\fireballso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample2\\fireballso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample2\\baseskillso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample2\\iceballso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample2\\iceballso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample\\reflectiontest001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample\\reflectiontest001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sample\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\sample\\basemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Orc.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample\\Orc.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sample\\Orc.cs",
@@ -63,38 +75,76 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T14:47:55.015Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SOReflection2.cs",
+              "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample3\\SOReflection2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sample3\\SOReflection2.cs",
+              "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample3\\SOReflection2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sample3\\SOReflection2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:59:44.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SOReflection.cs",
+              "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\SOReflection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sample2\\SOReflection.cs",
+              "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\SOReflection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sample2\\SOReflection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:55:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IceBallSO.cs",
+              "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\IceBallSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sample2\\IceBallSO.cs",
+              "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\IceBallSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sample2\\IceBallSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:55:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FireBallSO.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\FireBallSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sample2\\FireBallSO.cs",
               "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\FireBallSO.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sample2\\FireBallSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T14:54:33.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BaseSkillSO.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\BaseSkillSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sample2\\BaseSkillSO.cs",
               "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample2\\BaseSkillSO.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sample2\\BaseSkillSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T14:54:08.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Goblin.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample\\Goblin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sample\\Goblin.cs",
@@ -102,12 +152,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Sample\\Goblin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T14:48:23.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T14:48:23.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BaseMonster.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample\\BaseMonster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sample\\BaseMonster.cs",
@@ -115,12 +164,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Sample\\BaseMonster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T14:47:21.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T14:47:21.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ReflectionTest.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Data\\ReflectionTest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ReflectionTest.cs",
@@ -128,12 +176,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Data\\ReflectionTest.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T13:18:01.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T13:18:01.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Data\\PlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PlayerData.cs",
@@ -145,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ReflectionReflection_Test.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\ReflectionReflection_Test.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReflectionReflection_Test.cs",
@@ -153,12 +200,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ReflectionReflection_Test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:38:54.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:38:54.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BaseSkillSO.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\SO\\BaseSkillSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SO\\BaseSkillSO.cs",
@@ -166,8 +212,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SO\\BaseSkillSO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T14:13:06.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T14:13:06.244Z"
             }
           ]
         },
@@ -177,13 +222,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ReflectionTest001.cs",
               "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample\\ReflectionTest001.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sample\\ReflectionTest001.cs",
               "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Sample\\ReflectionTest001.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sample\\ReflectionTest001.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T14:48:54.306Z",
               "EditorCaption": ""
