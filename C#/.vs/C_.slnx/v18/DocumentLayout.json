@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\c-_Study\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\reflectionreflection_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reflectionreflection_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\data\\reflectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\reflectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity\\c-_study\\c#\\assets\\scripts\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReflectionTest.cs",
+              "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Data\\ReflectionTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ReflectionTest.cs",
+              "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Data\\ReflectionTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\ReflectionTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:18:01.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Data\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PlayerData.cs",
+              "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\Data\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:39:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReflectionReflection_Test.cs",
+              "DocumentMoniker": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\ReflectionReflection_Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ReflectionReflection_Test.cs",
+              "ToolTip": "C:\\Unity\\c-_Study\\C#\\Assets\\Scripts\\ReflectionReflection_Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ReflectionReflection_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:38:54.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
